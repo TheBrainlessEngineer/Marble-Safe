@@ -1,5 +1,10 @@
 # Marble-Safe 
 
+#!!!!!!!!!!!!!!!!!!!
+new version released -> better tolerances, new stopper, bolt and dial designs!
+https://github.com/TheBrainlessEngineer/Marble-Safe-V2/
+#!!!!!!!!!!!!!!!!!!!
+
 You can download these STL Files to build your very own Marble Safe
 
 A tutorial on how to assemble the project: https://youtu.be/sPzw5k4Us0A
